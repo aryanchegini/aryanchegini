@@ -1,9 +1,6 @@
 - 👋 Aryan Chegini
-- 👀 Machine learning is the future
-- 🌱 C seems like a nice language
 - 📫 How to reach me:
   - cheginiaryan.ac@gmail.com
-  - github haha: @aryanchegini
   - discord: aryanc#2242
 
 
