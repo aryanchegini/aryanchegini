@@ -1,7 +1,5 @@
-- 👋 Aryan Chegini
-- 📫 How to reach me:
-  - cheginiaryan.ac@gmail.com
-  - discord: aryanc#2242
+- cheginiaryan.ac@gmail.com
+- discord: aryanc#2242
 
 
 
