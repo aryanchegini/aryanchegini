@@ -1,5 +1,4 @@
 - cheginiaryan.ac@gmail.com
-- discord: aryanc#2242
 
 
 
