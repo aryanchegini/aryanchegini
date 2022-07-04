@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchegini)](https://github.com/anuraghazra/github-readme-stats)
+[![MasterHead]()](https://github.com/aryanchegini)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchegini&show_icons=true&theme=onedark)
+
