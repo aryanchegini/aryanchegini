@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Chegini</h1>
 <h3 align="center">A computer science student at the Uni of Bath.</h3>
 
-- 🔭 I’m currently working on **a neural netwrok to distinguish between different genres of EDM.**
+- 🔭 I’m currently working on **a neural network to distinguish between different genres of EDM.**
 
 - 🌱 I’m currently learning **Java and Node.js**
 
