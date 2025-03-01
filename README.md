@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aryan Chegini</h1>
-<h3 align="center">A computer science student at the Uni of Bath.</h3>
-
-- 🔭 I’m currently working on a forum app.
-
-- 🌱 I’m currently learning **Java and Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
